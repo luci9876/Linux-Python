@@ -1,1 +1,1 @@
-# day_00
+Pitech Training
